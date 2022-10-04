@@ -1,6 +1,6 @@
 import requests
 
-KIWI_API_KEY = "R5C0eL-3cgfIJ1f03C6rzAmcVhVCVF9Z"
+KIWI_API_KEY = "Use your own API Key"
 
 KIWI_ENDPOINT = "https://tequila-api.kiwi.com/locations/query"
 
