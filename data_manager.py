@@ -6,7 +6,7 @@ class DataManager:
 
     def __init__(self):
         self.data_list = []
-        self.sheet_api = "https://api.sheety.co/f06fbc79e990a1a80262cadfe882bff9/flightDeals/prices"
+        self.sheet_api = "Use your own API here"
         self.sheet_data = None
         self.data = None
         self.flight_searcher = FlightSearch()
