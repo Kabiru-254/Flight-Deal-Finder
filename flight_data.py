@@ -2,7 +2,7 @@ from data_manager import DataManager
 import requests
 from datetime import timedelta, datetime
 
-KIWI_API_KEY = "R5C0eL-3cgfIJ1f03C6rzAmcVhVCVF9Z"
+KIWI_API_KEY = "Use your own API key"
 KIWI_HEADERS = {
     "apikey": KIWI_API_KEY,
 }
